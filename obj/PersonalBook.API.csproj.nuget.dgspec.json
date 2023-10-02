@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\PersonalBook\\PersonalBook.API\\PersonalBook.API.csproj": {}
+    "D:\\Github\\PersonalBook.API.ASP.NET\\PersonalBook.API.csproj": {}
   },
   "projects": {
-    "D:\\Github\\PersonalBook\\PersonalBook.API\\PersonalBook.API.csproj": {
+    "D:\\Github\\PersonalBook.API.ASP.NET\\PersonalBook.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\PersonalBook\\PersonalBook.API\\PersonalBook.API.csproj",
+        "projectUniqueName": "D:\\Github\\PersonalBook.API.ASP.NET\\PersonalBook.API.csproj",
         "projectName": "PersonalBook.API",
-        "projectPath": "D:\\Github\\PersonalBook\\PersonalBook.API\\PersonalBook.API.csproj",
+        "projectPath": "D:\\Github\\PersonalBook.API.ASP.NET\\PersonalBook.API.csproj",
         "packagesPath": "C:\\Users\\arnab\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\PersonalBook\\PersonalBook.API\\obj\\",
+        "outputPath": "D:\\Github\\PersonalBook.API.ASP.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arnab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,27 +42,27 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.ReportingServices.ReportViewerControl.WebForms": {
               "target": "Package",
@@ -74,7 +74,7 @@
             },
             "Swashbuckle.AspNetCore.Filters": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[7.0.11, )"
             }
           },
           "imports": [

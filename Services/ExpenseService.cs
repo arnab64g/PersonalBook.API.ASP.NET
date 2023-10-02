@@ -24,6 +24,7 @@ namespace PersonalBook.API.Services
 
         public async Task<int> AddExpenseAsync(Expense expense)
         {
+            expense.Date = new DateTime(expense.Date.Year, expense.Date.Month, expense.Date.Day, 12, 0, 0);
             await userDbContext.Expenses.AddAsync(expense);
 
             return await userDbContext.SaveChangesAsync();
@@ -101,6 +102,7 @@ namespace PersonalBook.API.Services
         public async Task<int> UpdateExpenseAsync(Expense expense)
         {
             Expense? expenseOld = await userDbContext.Expenses.Where(e => e.Id == expense.Id).FirstOrDefaultAsync();
+            expense.Date = new DateTime(expense.Date.Year, expense.Date.Month, expense.Date.Day, 12, 0, 0);
 
             if (expenseOld != null)
             {
