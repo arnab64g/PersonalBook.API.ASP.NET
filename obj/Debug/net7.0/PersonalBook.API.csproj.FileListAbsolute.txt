@@ -387,3 +387,4 @@ D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net7.0\runtimes\win-x64\native\krb5
 D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
 D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net7.0\MySqlConnector.dll
 D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Github\PersonalBook.API.ASP.NET\obj\Debug\net7.0\PersonalBook.API.sourcelink.json
