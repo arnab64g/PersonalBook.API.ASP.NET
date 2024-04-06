@@ -159,7 +159,6 @@ D:\Github\PersonalBook.API.ASP.NET\obj\Debug\net8.0\refint\PersonalBook.API.dll
 D:\Github\PersonalBook.API.ASP.NET\obj\Debug\net8.0\PersonalBook.API.pdb
 D:\Github\PersonalBook.API.ASP.NET\obj\Debug\net8.0\PersonalBook.API.genruntimeconfig.cache
 D:\Github\PersonalBook.API.ASP.NET\obj\Debug\net8.0\ref\PersonalBook.API.dll
-D:\Github\PersonalBook.API.ASP.NET\obj\Debug\net8.0\Personal.466D7233.Up2Date
 D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -222,3 +221,4 @@ D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Wo
 D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Github\PersonalBook.API.ASP.NET\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\PersonalBook.API.ASP.NET\obj\Debug\net8.0\PersonalBook.API.csproj.CopyComplete
